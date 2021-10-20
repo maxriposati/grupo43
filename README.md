@@ -1,10 +1,12 @@
 
-<img src="static/images/LogoGrupo43_Uninorte.png"><h1>Grupo43</h1>
+<img src="static/images/LogoGrupo43_Uninorte.jpg"><h1>Grupo43</h1>
 ### Contenido python + Flask
 
 ## DESARROLLO DE LA PRACTICA
 
 siga los siguientes pasos
+
+OBSERVACION: LA BASE DE DATOS SE ENCUENTRA DENTRO LA CARPETA DB.
 
 
 # 1. Crea un archivo base.html
