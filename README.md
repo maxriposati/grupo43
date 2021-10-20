@@ -1,8 +1,8 @@
-# grupo43
-Contenido python + Flask
 
-DESARROLLO DE LA PRACTICA
+<img src="static/images/LogoGrupo43_Uninorte.png"><h1>Grupo43</h1>
+### Contenido python + Flask
 
+## DESARROLLO DE LA PRACTICA
 
 siga los siguientes pasos
 
