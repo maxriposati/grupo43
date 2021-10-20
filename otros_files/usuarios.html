@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table id="tabel" border="1"> 
+      <tbody>
+        <tr> 
+          <td width="2">Id</td> 
+          <td width="2">Nombre</td> 
+          <td width="2">Usuario</td> 
+          <td width="2">Correo</td> 
+        </tr> 
+        {% for usu in usuarios %}
+        <tr>
+          <td width="2">{% print(usu[0]) %}</td> 
+          <td width="2">{% print(usu[1]) %}</td> 
+          <td width="2">{% print(usu[2]) %}</td>  
+          <td width="2">{% print(usu[3]) %}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+</body>
+</html>
+
